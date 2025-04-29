@@ -10,3 +10,9 @@ Instalar Laravel 11
      composer require laravel/ui
 
      php artisan ui bootstrap --auth
+
+     npm install && npm run dev
+
+
+     debemos de configurar en env
+
